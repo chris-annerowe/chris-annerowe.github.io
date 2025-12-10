@@ -1,4 +1,3 @@
-# chris-annerowe.github.io
 
 Chris-Anne Rowe — Software Engineer (Healthcare • Enterprise • SaaS)
 
