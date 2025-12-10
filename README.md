@@ -1,7 +1,7 @@
 
 Chris-Anne Rowe — Software Engineer (Healthcare • Enterprise • SaaS)
 
-I build scalable, user‑focused applications for healthcare, fintech, and enterprise teams. My work spans patient systems, reporting engines, clinical workflows, and complex data‑driven dashboards. I specialize in React, Next.js, TypeScript, PostgreSQL, and modern tooling across distributed teams.
+I build scalable, user‑focused applications for healthcare, fintech, and enterprise teams. My work spans patient systems, reporting engines, clinical workflows, and complex data‑driven dashboards. I specialize in React, Next.js, Node.js, TypeScript, PostgreSQL, and modern tooling across distributed teams.
 
 Case Studies:
 
