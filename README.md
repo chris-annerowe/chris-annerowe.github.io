@@ -1,5 +1,5 @@
 
-Chris-Anne Rowe — Software Engineer (Healthcare • Enterprise • SaaS)
+Software Engineer (Healthcare • Enterprise • SaaS)
 
 I build scalable, user‑focused applications for healthcare, fintech, and enterprise teams. My work spans patient systems, reporting engines, clinical workflows, and complex data‑driven dashboards. I specialize in React, Next.js, Node.js, TypeScript, PostgreSQL, and modern tooling across distributed teams.
 
@@ -57,7 +57,7 @@ Case Studies:
     - Added validation, error boundaries, and optimistic UI updates
     - Improved UX with modals, inline editing, and clear visual hierarchy
     - Collaborated with backend team to refine API payloads
-    - 
+     
     Tech Stack
     React, Next.js, TypeScript, Prisma, Tailwind
     
